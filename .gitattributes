@@ -13,6 +13,7 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
+#
 *.ino eol=crlf
 *.cpp eol=crlf
 *.h eol=crlf
